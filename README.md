@@ -160,5 +160,5 @@ the password in plain text. Delete the file to reset the app.
   [gtk4-rs](https://gtk-rs.org).
 
 ## License
+GNU General Public License v3.0
 
-Add a license of your choice (for example MIT) as a `LICENSE` file and name it here.
