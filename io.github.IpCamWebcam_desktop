@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=IP Cam Webcam
+Comment=Use an Android IP camera as a virtual webcam
+Exec=ipcam-webcam
+Icon=camera-web
+Categories=AudioVideo;Video;
